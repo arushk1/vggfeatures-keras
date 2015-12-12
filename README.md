@@ -10,3 +10,5 @@ This has the following dependencies:
 To run the code : 
 
 sudo THEANO_FLAGS=mode=FAST_RUN,device=gpu,floatX=float32 python kerasvgg.py 
+
+Link for Pre-Trained Weights : https://www.dropbox.com/s/bvn05hji37lhfoa/vgg16_weights.h5?dl=0
